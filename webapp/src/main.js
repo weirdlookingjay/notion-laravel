@@ -3,6 +3,8 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 import AppLayout from "@/layouts/AppLayout";
+// import "@/assets/css/style.css";
+import "tailwindcss/tailwind.css";
 
 Vue.config.productionTip = false;
 
